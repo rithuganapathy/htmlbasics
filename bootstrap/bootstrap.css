@@ -1,0 +1,47 @@
+.col1 img{
+    height: 95vh;
+    width: 100vh;
+    padding-top: 5vh;
+    padding-left: 10vh;
+    
+}
+.col1 h1{
+    margin-left: 20vh;
+    padding-left: 25vh;
+    padding-top: 20vh;
+    background-color: gray;
+    height: 10vh;
+}
+.inside{
+    height: 80vh;
+    width: 50vh;
+    display: flex;
+    background-color: rgb(107, 207, 184);
+    height: 50vh;
+    border: 2px dotted black;
+    padding-top: 10vh;
+    padding-left: 8vh;
+    margin-top: 10vh;
+    margin-left: 20vh;
+    
+
+}
+.hi{
+    padding-left: 25vh;
+    background-color: cyan;
+    border: 2px solid black;
+    width: 90vh;
+    margin-top: 5vh;
+    
+}
+.one input{
+    font-size: 3vh;
+}
+.two button{
+    padding-left: 10px;
+    margin-left: 12vh;
+}
+.top h1{
+    padding-left: 2vh;
+    
+}

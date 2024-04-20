@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+.menu{
+    width: 50%;
+    background-color: bisque;
+    overflow: auto;
+    border: 2px solid olive;
+}
+.menu a{
+    float: left;
+    padding: 15px;
+    font-size: 30px;
+}
+.menu a:hover{
+    background-color: cyan;
+}

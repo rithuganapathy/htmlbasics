@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    align-items: center;
+    height: 90vh;
+    justify-content: center;
+}
+.one{
+    color: brown;
+    background-color: rgb(228, 157, 110);
+    text-align: center;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    height: 30vh;
+    width: 30vh;
+    margin-right:  350px;
+}
+.in{
+    padding: 50px;
+}
+.Two{
+    color: rgb(222, 17, 174);
+    background-color: rgb(223, 128, 163);
+    text-align: center;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    height: 30vh;
+    width: 30vh;
+    
+
+    
+}
+.left{
+    padding: 50px;
+}
+.Three{
+    color: rgb(3, 53, 9);
+    background-color: chartreuse;
+    text-align: center;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    height: 30vh;
+    width: 30vh;
+    margin-left:350px ;
+}
+
+.right{
+    padding: 50px;
+}
+

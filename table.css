@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+}
+
+
+table,th,td{
+    border: 2px solid darkblue;
+    border-collapse: collapse;
+    text-align: left;
+    align-content: center;
+    justify-content: center;
+}
+th{
+    background-color: burlywood;
+}
+td{
+    background-color: rgb(160, 178, 211);
+    
+}
+td:hover{
+    color: rgb(226, 15, 15);
+    background-color: darkseagreen;
+}

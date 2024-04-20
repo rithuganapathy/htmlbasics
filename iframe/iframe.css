@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    background-image: url(images/download.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.youtube{
+    padding-left: 100px;
+    padding-top: 20px;
+
+}
+.maps{
+    padding-left: 80px;
+
+}
+.video{
+    display: flex;
+    padding-left: 100px;
+    padding-top: 20px;
+    height: 320px;
+
+
+}
+.audio{
+    padding-top: 150px;
+    padding-left: 250px;
+
+}
